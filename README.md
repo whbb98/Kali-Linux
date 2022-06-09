@@ -1,2 +1,2 @@
 # Kali-Linux
-## this is about a custom driver for wn722 wireless adapter for kali linux users
+## This is About a Custom Driver for TP-Link TL-WN722N Adapter Wireless Adapter for Kali.
